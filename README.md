@@ -5,3 +5,7 @@ For analyzing the traffic anomaly within dashcam videos in the perspective of eg
 The pipeline of this work. ![image](https://github.com/ZHU912010/Driving-Anomaly-Detection/blob/master/The%20TSS%20module.png)
 
 The Drive-Anomaly106 dataset, Groundtruth and our results can be downloaded [Here](https://pan.baidu.com/s/1EBQdRYJXyAiTaP_zPry8wQ).
+
+This dataset proposed in paper [Vehicle re-identification in tunnel scenes via synergistically cascade forests](https://doi.org/10.1016/j.neucom.2019.11.069)
+
+This dataset proposed in paper [Progressive Temporal-Spatial-Semantic Analysis of Driving Anomaly Detection and Recounting](https://doi.org/10.3390/s19235098)
